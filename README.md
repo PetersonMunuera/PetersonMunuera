@@ -1,8 +1,8 @@
 ## 👋 Olá, seja bem-vindo !
-![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonMunuera&show_icons=true&theme=cobalt)
+![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonMunuera&show_icons=true&theme=tokyonight)
 
 ### 💙 Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🎓 Estudando
 <ul>
@@ -10,7 +10,6 @@
   <li>React Native</li>  
   <li>Node</li>  
 </ul>
-
 
 <!--
 **PetersonMunuera/PetersonMunuera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
